@@ -1,7 +1,7 @@
 FtpTransfer
 ===========
 
-Introduction goes here.
+Review /lib/ftp_transfer.rb
 
 
 Example
@@ -10,4 +10,4 @@ Example
 Example goes here.
 
 
-Copyright (c) 2009 [name of plugin creator], released under the MIT license
+Copyright (c) 2009 b.kosmowski@selleo.com [Stevo], released under the MIT license
